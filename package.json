@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^6.6.4",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.3.0",
     "github": "^14.0.0",
     "pages": "^0.0.16",
     "prop-types": "^15.8.1",
